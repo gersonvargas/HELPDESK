@@ -1,7 +1,7 @@
 // Dependencies
 import React, { Component } from 'react';
 import register_img from "../Global/images/registro.jpg";
-import '../Global/css/Register/register.css';
+//import '../Global/css/Register/register.css';
 //import '../Global/css/Global/content.css';
 
 class Register extends Component {

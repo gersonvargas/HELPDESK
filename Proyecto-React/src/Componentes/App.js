@@ -21,7 +21,7 @@ class App extends Component {
 
     return (
       <div className="container">
-        <Header
+         <Header
           title="Codejobs"
           items={items}
         />
