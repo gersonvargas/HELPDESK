@@ -9,6 +9,8 @@ import Organizacion from './Componentes/Organizacion';
 import Alcaldia from './Componentes/Alcaldia';
 import Concejo from './Componentes/Concejo';
 import Home from './Componentes/Inicio';
+import Financiero from './Componentes/Financiero';
+
 // import Search from './Componentes/Search_Job';
 import Register from './Componentes/Register';
 
@@ -21,6 +23,7 @@ const AppRoutes = () =>
       <Route exact path="/organizacion" component={Organizacion} />
       <Route exact path="/alcaldia" component={Alcaldia} />
       <Route exact path="/concejo" component={Concejo} />
+      <Route exact path="/financiero" component={Financiero} />
     </Switch>
   </App>;
 

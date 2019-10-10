@@ -11,13 +11,14 @@ class Footer extends Component {
     render() {
         const { title, items } = this.props;
         return (
-            <ul className="sidebar navbar-nav">
+            <ul className="sidebar navbar-nav sidebar-toggled">
                 <li className="nav-item active">
                     <a className="nav-link" href="/">
                         <i className="fas fa-fw fa-tachometer-alt"></i>
                         <span>Municipalidad de Belén</span>
+                        
                     </a>
-
+                   
                 </li>
                
                 <li className="nav-item dropdown">
@@ -32,7 +33,7 @@ class Footer extends Component {
                         <a className="dropdown-item " href="/concejo">Concejo</a>
                         <a className="dropdown-item " href="/alcaldia">Alcaldía</a>
                         <h6 className="dropdown-header">Áreas:</h6>
-                        <a className="dropdown-item " href="#">Financiera</a>
+                        <a className="dropdown-item " href="/financiero">Financiera</a>
                         <a className="dropdown-item " href="#">Operativa</a>
                         <a className="dropdown-item " href="#">Serv. Públicos</a>
                         <a className="dropdown-item" href="#">Des. Social</a>

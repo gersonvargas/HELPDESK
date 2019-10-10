@@ -1,0 +1,200 @@
+{
+    "empleados": [
+        {
+            "id":"0",
+            "nombre": "Horacio Alvarado B",
+            "direccion": "Alcaldia",
+            "unidad": "Alcaldia",
+            "codigo_dir":1,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Alcalde",
+            "sexo":"M"
+        },
+        {
+            "id":"0",
+            "nombre": "Thais Zumbado R",
+            "direccion": "Alcaldia",
+            "unidad": "Alcaldia",
+            "codigo_dir":1,
+            "email": "vicealcaldesa@belen.go.cr",
+            "ext": "",
+            "puesto": "Vicealcaldesa",
+            "sexo":"F"
+        },{
+            "id":"0",
+            "nombre": "Sileny Ribera C",
+            "direccion": "Alcaldia",
+            "unidad": "Alcaldia",
+            "codigo_dir":1,
+            "email": "asesor1@belen.go.cr",
+            "ext": "",
+            "puesto": "Asesora",
+            "sexo":"F"
+        },{
+            "id":"0",
+            "nombre": "Elizabeth Porras M",
+            "direccion": "Alcaldia",
+            "unidad": "Alcaldia",
+            "codigo_dir":1,
+            "email": "secretaria@belen.go.cr",
+            "ext": "",
+            "puesto": "Secretaria",
+            "sexo":"F"
+        },
+        {
+            "id":"0",
+            "nombre": "Gerson Vargas G",
+            "direccion": "Alcaldia",
+            "unidad": "T.I",
+            "codigo_dir":1,
+            "email": "informatica5@belen.go.cr",
+            "ext": "117",
+            "puesto": "Administrador BD",
+            "sexo":"M"
+            
+        }, {
+            "id":"1",
+            "nombre": "Jason Orozco",
+            "direccion": "Alcaldia",
+            "unidad": "T.I",
+            "codigo_dir":1,
+            "email": "informatica2@belen.go.cr",
+            "ext": "116",
+            "puesto": "Seguridad y Servidores",
+            "sexo":"M"
+            
+        },
+        {
+            "id":"2",
+            "nombre": "Alina Sánchez G",
+            "direccion": "Alcaldia",
+            "unidad": "T.I",
+            "codigo_dir":1,
+            "email": "informatica@belen.go.cr",
+            "ext": "114",
+            "puesto": "Coordinadora",
+            "sexo":"F"
+            
+        },
+        {
+            "id":"3",
+            "nombre": "Jorje Gonzalez G",
+            "direccion": "Financiera",
+            "unidad": "Adm. Finan.",
+            "codigo_dir":2,
+            "email": "administrativo1@belen.go.cr",
+            "ext": "",
+            "puesto": "Director",
+            "sexo":"M"
+            
+        }
+        ,
+        {
+            "id":"3",
+            "nombre": "Ivannia Zumbado L",
+            "direccion": "Financiera",
+            "unidad": "Presupuesto",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinadora"
+            ,
+            "sexo":"F"
+        }
+        ,
+        {
+            "id":"3",
+            "nombre": "Florencia Murillo G",
+            "direccion": "Financiera",
+            "unidad": "Tesorería",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinadora"
+            ,
+            "sexo":"F"
+        }
+        ,
+        {
+            "id":"3",
+            "nombre": "Hazell Sanabria S",
+            "direccion": "Financiera",
+            "unidad": "Contabilidad",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinadora"
+            ,
+            "sexo":"F"
+        }
+        ,
+        {
+            "id":"3",
+            "nombre": "Andrea Arce B",
+            "direccion": "Financiera",
+            "unidad": "Gest. Cobros",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinadora"
+            ,
+            "sexo":"F"
+        } ,
+        {
+            "id":"3",
+            "nombre": "Sandra Calderón F",
+            "direccion": "Financiera",
+            "unidad": "Archivo",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinadora"
+            ,
+            "sexo":"F"
+        }
+        ,
+        {
+            "id":"3",
+            "nombre": "Marcos Porras Q",
+            "direccion": "Financiera",
+            "unidad": "Bienes y Serv.",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinador"
+            ,
+            "sexo":"M"
+        } ,
+        {
+            "id":"3",
+            "nombre": "Gonzalo Zumbado Z",
+            "direccion": "Financiera",
+            "unidad": "Tributaria",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinador"
+        } ,
+        {
+            "id":"3",
+            "nombre": "Ronald Zumbado Z",
+            "direccion": "Financiera",
+            "unidad": "Tributaria",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Coordinador"
+        },
+        {
+            "id":"3",
+            "nombre": "Gerardo Vargas Z.",
+            "direccion": "Financiera",
+            "unidad": "Bienes y Serv",
+            "codigo_dir":2,
+            "email": "user@belen.go.cr",
+            "ext": "",
+            "puesto": "Bienes y Serv"
+        }
+    ]
+}

@@ -25,7 +25,7 @@ class Header extends Component {
         const { title, items } = this.props;
         return (
             <div>
-                <nav className="navbar navbar-expand navbar-dark bg-dark static-top">
+                <nav className="navbar navbar-expand navbar-dark bg-dark static-top" id="">
                     <img src={Logo} className="img-fluid mr-3 img-logo-p" width='3%' alt="about us" id="" />
                     <a className="navbar-brand mr-1" href="/">INTRANET</a>
 
